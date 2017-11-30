@@ -1,0 +1,18 @@
+git init 
+
+产生一个 .git 文件
+
+git add .
+
+git commit -m"erhaowanjia"
+
+git remote show
+
+git remote show origin
+
+git push
+
+git push --set-upstream origin master
+
+git checkout -b second_table  
+git diff 
